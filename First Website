@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>You Got This</title>
+  <style>
+   h1  { color: blue;} 
+  </style>
+</head>
+<body>
+  <h1> You Got This<h1/>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo obcaecati aperiam quod impedit iste. Amet ipsam obcaecati quis animi, earum modi quia nihil ut reiciendis vel inventore dolor placeat molestiae.</p>
+     <ul>
+      <li>Do It Right</li>
+      <li>Eat Right</li>
+      <li>Get Right</li>
+      <li>Do Right</li>
+      <li>Sleep Right</li>
+      <li>Repeat</li>
+    </ul>
+</body>
+</html>
